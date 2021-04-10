@@ -82,45 +82,6 @@
     
 </section>
 
-{{--  <div class="gray-background testimonials__mobile">
-    <div class="main-wrapper flex-container">
-        <section class="testimonials">
-            <h2 class="title-large">Est placidus orexis, cesaris. <br>nunquam aperto vortex.</h2>
-            <section class="flex-container">
-                <article class="quote">
-                    <div class="avatar__testimonial">
-                        <img src="{{asset('images/Avatar-testimonial.png')}}">
-                    </div>
-                    <blockquote>
-                        Sunt zeluses visum secundus, gratis barcases. Pius caesium solite magicaes mons est. Consilium
-                        messiss, tanquam altus epos. Sunt fluctuies tractare salvus, festus byssuses. Cum calcaria
-                        accelerare, omnes luraes manifestum alter, dexter rationees.
-                    </blockquote>
-                    <footer>
-                        <h4 class="title-medium">Nunquam talem stella. </h4>
-                        <p>Cur ratione observare? </p>
-                    </footer>
-                </article>
-
-                <article class="quote">
-                    <div class="avatar__testimonial">
-                        <img src="{{asset('images/Avatar-testimonial.png')}}">
-                    </div>
-                    <blockquote>
-                        Sunt zeluses visum secundus, gratis barcases. Pius caesium solite magicaes mons est. Consilium
-                        messiss, tanquam altus epos. Sunt fluctuies tractare salvus, festus byssuses. Cum calcaria
-                        accelerare, omnes luraes manifestum alter, dexter rationees.
-                    </blockquote>
-                    <footer>
-                        <h4 class="title-medium">Nunquam talem stella. </h4>
-                        <p>Cur ratione observare? </p>
-                    </footer>
-                </article>
-            </section>
-        </section>
-    </div>
-</div>  --}}
-
 <section class="cta__home" >
         <div class="cta__wrapper">
             <h2 class="title-large">Você conhece nossos parceiros?</h2>
